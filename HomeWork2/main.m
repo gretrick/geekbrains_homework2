@@ -24,7 +24,7 @@ void slFunction(){
     
     programmingLanguages weLearn = 2;
     NSLog(@"Количество возможных языков для изучения - %d", CPlusPlus+1);
-    
+    //test
     BOOL isLanguage = YES;
     BOOL isProgram = YES;
     BOOL isProgramLanguage = (isLanguage && isProgram) || (isLanguage || isProgram);
