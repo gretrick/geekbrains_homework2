@@ -6,6 +6,7 @@
 //  Copyright © 2016 Sergejs Lastovskis. All rights reserved.
 //
 
+
 #import <Foundation/Foundation.h>
 
 void slFunction(){
